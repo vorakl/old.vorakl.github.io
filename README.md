@@ -1,2 +1,3 @@
 # old.vorakl.github.io
-Old Blog
+
+My old Blog. It has been moved to https://vorakl.com/
